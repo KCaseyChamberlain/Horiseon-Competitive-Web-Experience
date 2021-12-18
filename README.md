@@ -22,7 +22,7 @@ Horiseon would like to share with you their competitive web experience they have
 
 The following image demonstrates the web application's default appearance and functionality:
 
-![Screenshot of live URL](./Develop/assets/images/webpage-demo.jpg)
+![Screenshot of live URL](./assets/images/webpage-demo.jpg)
 
 ## 📝 Live URL
 
