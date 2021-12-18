@@ -1,6 +1,6 @@
 # Horiseon's Competitive Web Experience
 
-Horiseon would like to share with you their competitive web experience.
+Horiseon would like to share with you their competitive web experience they have been working on. As well as what they can provide for you.
 
 ## Horiseon's Offers:
 
@@ -22,7 +22,7 @@ Horiseon would like to share with you their competitive web experience.
 
 The following image demonstrates the web application's default appearance and functionality:
 
-![Screenshot of live URL](./assets/images/webpage-demo.jpg)
+![Screenshot of live URL](./Develop/assets/images/webpage-demo.jpg)
 
 ## 📝 Live URL
 
