@@ -2,7 +2,7 @@
 
 Horiseon would like to share with you their competitive web experience.
 
-## Trident of success
+## Trident of Success:
 
 * Search Engine Optimization
 
