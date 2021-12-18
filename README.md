@@ -2,7 +2,7 @@
 
 Horiseon would like to share with you their competitive web experience.
 
-## Trident of Success:
+## Horiseon's Offers:
 
 * Search Engine Optimization
 
@@ -10,11 +10,19 @@ Horiseon would like to share with you their competitive web experience.
 
 * Social Media Marketing
 
+## Horiseon's Benefits:
+
+* Lead Generation
+
+* Brand Awareness
+
+* Cost Management
+
 ## Preview
 
 The following image demonstrates the web application's default appearance and functionality:
 
-![The text "Show Resources" appears below an article titled "Building Responsive Layouts".](./assets/images/webpage-demo.jpg)
+![Screenshot of live URL](./assets/images/webpage-demo.jpg)
 
 
 ## 📝 Live URL
