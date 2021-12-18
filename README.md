@@ -27,6 +27,4 @@ The following image demonstrates the web application's default appearance and fu
 
 ## 📝 Live URL
 
-Horiseon's Competitive Web Experience: 
-
-* [Deployed Horiseon's Competitive Web Experience's URL](https://kcaseychamberlain.github.io/Horiseon-Competitive-Web-Experience/)
+* [Horiseon's Competitive Web Experience](https://kcaseychamberlain.github.io/Horiseon-Competitive-Web-Experience/)
