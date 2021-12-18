@@ -9,8 +9,8 @@
 <body>
     <!--Header contains 3 nav links to <articles>-->
     <header>
+        <!--Heading attributes go in sequential order. Header, offers, benefits, footer.-->
         <h1>Hori<span>seo</span>n</h1>
-        <!--Heading attributes go in sequential order. Header, offers, benefits.-->
         <nav>
             <ul>
                 <li>
@@ -28,11 +28,11 @@
     <!--Boardroom background hero image. No alt attribute because image is in CSS as decoration.-->
     <div class="hero"></div>
     <!--Horiseon's 3 offers.-->
-    <section class="content">
-        <article id="search-engine-optimization" class="search-engine-optimization">
+    <section class="offers">
+        <article class="offer-box" id="search-engine-optimization">
             <img src="./assets/images/search-engine-optimization.jpg"
                 alt="Cluttered work station desk with the focal point being the acronym S.E.O. penciled into a notebook."
-                class="float-left" />
+                class="float-left"/>
             <h2>Search Engine Optimization</h2>
             <p>
                 The dominance of mobile internet use means that users are searching for the right business as they
@@ -40,10 +40,10 @@
                 your visibility and find the right customers for your business.
             </p>
         </article>
-        <article id="online-reputation-management" class="online-reputation-management">
+        <article class="offer-box" id="online-reputation-management">
             <img src="./assets/images/online-reputation-management.jpg"
                 alt="An open running laptop displaying a series of graphs with the word; reputation branded in red as the title of these graphs."
-                class="float-right" />
+                class="float-right"/>
             <h2>Online Reputation Management</h2>
             <p>
                 The web is full of opinions, and some of these can be negative. Social media allows anyone with an
@@ -51,10 +51,10 @@
                 you the control over what potential customers see when they search for your business.
             </p>
         </article>
-        <article id="social-media-marketing" class="social-media-marketing">
+        <article class="offer-box" id="social-media-marketing">
             <img src="./assets/images/social-media-marketing.jpg"
                 alt="A group brainstorm regarding social media. Taking place at a large rectangular wooden boardroom desk."
-                class="float-left" />
+                class="float-left"/>
             <h2>Social Media Marketing</h2>
             <p>
                 Social media continues to have a sizable influence on buying habits. Social media marketing helps you
@@ -65,7 +65,7 @@
     </section>
     <!--Horiseon's 3 benefits-->
     <section class="benefits">
-        <div class="benefit-lead">
+        <div class="benefit-box">
             <h3>Lead Generation</h3>
             <img src="./assets/images/lead-generation.png" alt="…" />
             <p>
@@ -73,7 +73,7 @@
                 to your website.
             </p>
         </div>
-        <div class="benefit-brand">
+        <div class="benefit-box">
             <h3>Brand Awareness</h3>
             <img src="./assets/images/brand-awareness.png" alt="…" />
             <p>
@@ -81,7 +81,7 @@
                 for your business.
             </p>
         </div>
-        <div class="benefit-cost">
+        <div class="benefit-box">
             <h3>Cost Management</h3>
             <img src="./assets/images/cost-management.png" alt="…"></img>
             <p>
@@ -91,7 +91,7 @@
         </div>
     </section>
     <footer>
-        <h2>Made with ❤️️ by Horiseon</h2>
+        <h4>Made with ❤️️ by Horiseon</h4>
         <!--2019 Horiseon Social Solution Services, Inc. needs copyright tag-->
         <p>
             &copy; 2019 Horiseon Social Solution Services, Inc.
